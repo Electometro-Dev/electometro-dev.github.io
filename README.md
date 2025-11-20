@@ -1,2 +1,2 @@
-# electometro-dev.github.io
+# Electometro-Dev
 Home for Electometro
