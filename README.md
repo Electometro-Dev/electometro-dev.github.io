@@ -1,2 +1,2 @@
-# Electometro-Dev
+# electometro-org
 Home for Electometro
